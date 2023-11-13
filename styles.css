@@ -48,3 +48,12 @@ input#textarea {
   padding: 5px;
   margin: 2px;
 }
+
+#submit {
+  width: 100%;
+  background-color: #000;
+  color: whitesmoke;
+  padding: 20px;
+  margin-bottom: 10px;
+  font-size: 1.3em;
+}
